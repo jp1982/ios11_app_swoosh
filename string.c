@@ -2,6 +2,7 @@
 int my_strlen(char *s)
 {
 char *p = s;
+char t* = s
 while (*p)
 ++p;
 return (p - s);
